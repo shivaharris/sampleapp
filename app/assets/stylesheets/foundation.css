@@ -22,7 +22,7 @@ body {
   font-size: 100%; }
 
 body {
-  background-image: url('http://www.shivaharris.com/img/bg-graph-paper.png')) !important;
+  background-image: url('http://www.shivaharris.com/img/bg-graph-paper.png') !important;
   color: #222222;
   padding: 0;
   margin: 0;
